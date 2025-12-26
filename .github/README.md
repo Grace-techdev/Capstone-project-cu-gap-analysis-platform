@@ -1,5 +1,3 @@
-<img width="807" height="548" alt="image" src="https://github.com/user-attachments/assets/285835e8-8b49-4563-b145-922bd4fcda5c" /># Capstone-project-cu-gap-analysis-platform
-
 ## Capstone Project (Team-Based)
 
 This repository is a fork of the original team repository for a university Capstone project.
